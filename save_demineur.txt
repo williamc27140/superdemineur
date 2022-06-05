@@ -1,0 +1,2 @@
+0 4000 3000 5000 6000 7000
+8000 noma nomb nomc nomd nome
